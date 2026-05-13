@@ -55,11 +55,11 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisitha93&show_icons=true&theme=tokyonight" alt="Nisitha93 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight" alt="nisithamadhawa GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisitha93&theme=tokyonight" alt="Nisitha93 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisithamadhawa&theme=tokyonight" alt="nisithamadhawa GitHub Streak" />
 </p>
 
 ---
