@@ -55,11 +55,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight" alt="nisithamadhawa GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisithamadhawa&theme=tokyonight" alt="nisithamadhawa GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight" height="170" alt="nisithamadhawa GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisithamadhawa&theme=tokyonight" height="170" alt="nisithamadhawa GitHub Streak" />
 </p>
 
 ---
