@@ -10,7 +10,7 @@
 ### 💫 About Me:
 - 🎓 **BSc (Hons) in Information Technology** - SLIIT Sri Lanka.
 - 💻 **Full Stack Web Developer** with a passion for building scalable systems.
-- 🚀 Specialized in **Java (Hibernate, Spring Boot)**, **PHP (Laravel)**, and modern **JavaScript** frameworks.
+- 🚀 Specialized in **Java (Hibernate, Spring Boot)**, **PHP (Laravel)**, and modern **JavaScript** frameworks like **React**.
 - 📫 Reach me at: **nisitha.dk@gmail.com**
 
 ---
