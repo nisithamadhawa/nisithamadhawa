@@ -2,7 +2,7 @@
 ### Full Stack Developer | Software Engineering Enthusiast
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nisitha93&label=Profile%20views&color=0e75b6&style=flat" alt="Nisitha93" />
+  <img src="https://komarev.com/ghpvc/?username=nisithamadhawa&label=Profile%20views&color=0e75b6&style=flat" alt="nisithamadhawa" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 ### 💫 About Me:
 - 🎓 **BSc (Hons) in Information Technology** - SLIIT Sri Lanka.
 - 💻 **Full Stack Web Developer** with a passion for building scalable systems.
-- 🚀 Specialized in **Java**, **PHP (Laravel)**, and modern **JavaScript** frameworks.
+- 🚀 Specialized in **Java (Hibernate, Spring Boot)**, **PHP (Laravel)**, and modern **JavaScript** frameworks.
 - 📫 Reach me at: **nisitha.dk@gmail.com**
 
 ---
@@ -30,10 +30,11 @@
 #### ⚙️ Backend & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 #### 📱 Mobile Development
@@ -58,11 +59,12 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="nisithamadhawa GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisithamadhawa&theme=tokyonight" height="170" alt="nisithamadhawa GitHub Streak" />
 </p>
+
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/nisithamadhawa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fb.com/nisitha.madhawa" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/mister_fister__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/nisitha.madhawa.bandara/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mister_nish_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
