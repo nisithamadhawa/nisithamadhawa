@@ -1,11 +1,15 @@
 
 
-<h1>Hi there ! 👋</h1>
-<h5> I’m Nisitha Madhawa 😀 </h5>
+<h1>Hi there! 👋</h1>
 
-- 🎓 Graduated from SLIIT Sri Lanka
-- ⭐ I’m interested in Software Engineering
-- 📫 How to reach me: nisitha.dk@gmail.com
+<h3>I'm Nisitha Madhawa 😀</h3>
+
+<ul>
+  <li>🎓 Graduated with a <strong>BSc (Hons) in Information Technology</strong> from <strong>SLIIT Sri Lanka</strong></li>
+  <li>💻 Full Stack Web Developer</li>
+  <li>⭐ Interested in Software Engineering</li>
+  <li>📫 Reach me at: <a href="mailto:nisitha.dk@gmail.com">nisitha.dk@gmail.com</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
