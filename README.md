@@ -55,10 +55,9 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight" height="170" alt="nisithamadhawa GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nisithamadhawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="nisithamadhawa GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisithamadhawa&theme=tokyonight" height="170" alt="nisithamadhawa GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with me:
